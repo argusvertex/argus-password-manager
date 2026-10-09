@@ -2,8 +2,7 @@
 
 > Локальный менеджер паролей с защитой от принуждения.
 
-![ARGUS](https://raw.githubusercontent.com/argusvertex/argus/main/screenshot.png)
-
+![ARGUS](https://raw.githubusercontent.com/argusvertex/argus-password-manager/main/screenshot.png)
 ## 🔥 Возможности
 
 - 🔒 **Полностью локально** — данные не покидают устройство.
