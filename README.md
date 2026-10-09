@@ -9,8 +9,8 @@
 Это **v0.0.1** — первая публичная сборка ARGUS. Проект **активно развивается**, и мне **очень важна обратная связь**.
 
 **Попробуйте, поищите баги, оставьте отзыв:**
-- 🐛 Нашли ошибку → создайте [Issue](../../issues)
-- 💡 Есть идея → напишите в [Discussions](../../discussions)
+- 🐛 Нашли ошибку → создайте [Issue](https://github.com/argusvertex/argus-password-manager/issues)
+- 💡 Есть идея → напишите в [Discussions](https://github.com/argusvertex/argus-password-manager/discussions)
 - ⭐ Понравилось → поставьте звезду репозиторию
 
 Любой фидбэк помогает сделать ARGUS лучше. Спасибо! 🙏
