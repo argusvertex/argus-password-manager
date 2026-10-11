@@ -102,3 +102,28 @@
 © 2026 VERTEX GROUP. Все права защищены.
 
 Программа распространяется **как есть**. Используйте на свой риск.
+
+## 🛠️ Сборка из исходников
+
+### Требования
+- Rust (stable)
+- Flutter SDK (3.x)
+- Visual Studio Build Tools (C++)
+
+### Сборка
+
+```bash
+git clone https://github.com/argusvertex/argus-password-manager.git
+cd argus-password-manager
+
+cd rust && cargo build --release && cd ..
+flutter pub get
+flutter_rust_bridge_codegen generate
+flutter build windows --release
+```
+
+Готовый `.exe` — в `build/windows/x64/runner/Release/`.
+
+## 📄 Лицензия
+
+GPLv3 — см. [LICENSE](LICENSE).
