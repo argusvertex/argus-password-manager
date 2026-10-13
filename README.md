@@ -46,6 +46,13 @@
 
 ⚠️ **Мастер-пароль не восстанавливается.** Запомни его или запиши в надёжном месте.
 
+### Linux (Ubuntu, Debian, Mint)
+
+1. Скачай **`ARGUS-linux-x64-v0.0.1.tar.gz`** из [Releases](../../releases/latest).
+2. Распакуй:
+   ```bash
+   tar -xzvf ARGUS-linux-x64-v0.0.1.tar.gz
+
 ## 🔐 Безопасность
 
 - **Алгоритм шифрования:** ChaCha20-Poly1305
