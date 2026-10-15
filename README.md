@@ -2,6 +2,8 @@
 
 [![Поддержать на Boosty](https://img.shields.io/badge/Поддержать-Boosty-orange?style=for-the-badge&logo=boosty)](https://boosty.to/vertexs)
 
+[![Telegram](https://img.shields.io/badge/Telegram-Канал-blue?style=for-the-badge&logo=telegram)](https://t.me/argus_project)
+
 > Локальный менеджер паролей с защитой от принуждения.
 
 ![ARGUS](https://raw.githubusercontent.com/argusvertex/argus-password-manager/main/screenshot.png)
